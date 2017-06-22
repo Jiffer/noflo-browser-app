@@ -163,6 +163,13 @@
                 "process": "core/Kick_ey1nh",
                 "port": "data"
             }
+        },
+        {
+            "data": "poo",
+            "tgt": {
+                "process": "dom/WriteHtml_fpz6j",
+                "port": "html"
+            }
         }
     ]
 }
